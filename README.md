@@ -90,4 +90,4 @@ Computational Statistics Project
 
 Faculty of Sciences – University of Porto
 
-Academic Year 2024/2025
+Academic Year 2025/2026
