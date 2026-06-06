@@ -76,24 +76,11 @@ The analysis suggests that:
 
 ---
 
-## Project Structure
-
-```bash
-.
-├── data/
-├── scripts/
-├── plots/
-├── report/
-└── README.md
-```
-
----
-
 ## Authors
 
-* Mafalda Carmo
+* Ana Mafalda Araújo do Carmo
 * Marta Monteiro
-* Rafaela Pinto
+* Rafaela Afonso Claro Pinto
 
 ---
 
