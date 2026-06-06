@@ -2,11 +2,11 @@
 
 ## About the Project
 
-This project was developed as part of the Computational Statistics course at the Faculty of Sciences, University of Porto.
+This repository contains a statistical analysis of homicide rates across U.S. counties using the countymurders dataset from the wooldridge package in R.
 
-The goal of this study is to analyse homicide rates across different counties in the United States and investigate whether demographic and population characteristics are associated with higher homicide levels.
+The project explores the relationship between homicide levels and demographic factors such as age distribution, population density, gender composition, racial demographics, and arrest rates through exploratory data analysis, statistical testing, and data visualisation.
 
-The analysis was conducted using the `countymurders` dataset from the `wooldridge` package in R.
+Note: The accompanying report is available in Portuguese.
 
 ---
 
@@ -86,8 +86,9 @@ The analysis suggests that:
 
 ## Academic Context
 
-Computational Statistics Project
+Computational Statistics 
 
 Faculty of Sciences – University of Porto
 
 Academic Year 2025/2026
+
